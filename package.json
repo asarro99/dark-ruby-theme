@@ -1,0 +1,25 @@
+{
+    "name": "dark-ruby-theme",
+    "displayName": "Dark Ruby Theme",
+    "description": "A Dark Red Theme for VsCode",
+    "publisher": "asarro99",
+    "author": {
+        "name": "Antonio Sarro"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Ruby",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Ruby-color-theme.json"
+            }
+        ]
+    }
+}
